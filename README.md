@@ -15,4 +15,13 @@ Project repo: https://github.com/
 python template.py
 ```
 
-### Step 2 : 
+### Step 2 : Create a conda environment after opening the repository
+
+```bash
+conda create -n textS python=3.8 -y
+``` 
+```bash
+conda activate textS
+```
+
+
